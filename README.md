@@ -35,6 +35,7 @@ Common Pitfalls and Solutions
 🌐 Follow My Journey:
 Connect with me on LinkedIn: https://lnkd.in/gcg8CBgq
 GitHub Repository: https://lnkd.in/g_RBc5xB
+
 Live Demos of Codes and Many more interesting things: Coming Soon
 
 💬 Get Involved:
